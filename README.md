@@ -25,7 +25,7 @@
     * 主要难点：在实现强一致的raft协议中，如何生成快照和对日志压缩；实现健值存储时如何处理客户端重复的请求
 
 2. CS-15-445-Project &emsp;&emsp;&emsp;&emsp; 项目地址：[https://github.com/1156564544/bustub ](https://github.com/1156564544/bustub)  
-    * Lab1：实现一个DBMS的内存池管理模块；基于实现的内存池管理模块实现一个可扩展哈希索引（Extendible Hash Index）；实现DBMS中的查询处理模块
+    * 实现一个DBMS的内存池管理模块；基于实现的内存池管理模块实现一个可扩展哈希索引（Extendible Hash Index）；实现DBMS中的查询处理模块
     * 主要难点：实现可扩展哈希索引时，向已满的bucket插入数据带来的哈希表扩展问题，以及删掉bucket中最后一个数据带来的哈希表收缩问题是两个难点
 
 3. 分布式对象存储原型系统 &emsp;&emsp;&emsp; 项目地址：[https://github.com/1156564544/bustub ](https://github.com/1156564544/oss) 
