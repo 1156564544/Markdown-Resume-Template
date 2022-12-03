@@ -9,7 +9,7 @@
 
 ## 教育经历
   
-* 上海交通大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~至今 &emsp;&emsp;&emsp;&emsp;    计算机技术专业-研究生         
+* 上海交通大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~至今 &emsp;&emsp;&emsp;&emsp;&emsp;    计算机技术专业-研究生         
 * 上海交通大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2021.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
 
 ## 专业技能
