@@ -4,9 +4,8 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：22  
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年 龄：22  
 * 手 机：15307387999 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：1156564544@sjtu.edu.cn   
-* 专 业：计算机技术
 
 ## 教育经历
   
