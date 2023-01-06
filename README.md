@@ -27,10 +27,10 @@
 2. CS-15-445-Project &emsp;&emsp;&emsp;&emsp; 项目地址：[https://github.com/1156564544/bustub ](https://github.com/1156564544/bustub)  
     * 实现一个DBMS的内存池管理模块；基于实现的内存池管理模块实现一个可扩展哈希索引（Extendible Hash Index）；实现DBMS中的查询处理模块
 
-3. 分布式对象存储原型系统 &emsp;&emsp;&emsp; 项目地址：[https://github.com/1156564544/bustub ](https://github.com/1156564544/oss) 
+3. 分布式对象存储原型系统 &emsp;&emsp;&emsp; 项目地址：[https://github.com/1156564544/oss ](https://github.com/1156564544/oss) 
     * 基于go实现的一个高并发的对象存储原型系统，包括：分布式数据存储、分布式接口服务、基于redis实现的消息队列广播心跳、基于elasticSearch实现的元数据管理、对上传的对象基于SHA256验证哈希值、基于RS纠删码实现的数据冗余与即时恢复、断点上传与下载、基于gzip算法进行数据压缩、用户鉴权与权限管理及一个简易的客户端
     
-4. Linux下基于c++实现的web服务器 &emsp;&emsp;&emsp; 项目地址：[https://github.com/1156564544/webServer]
+4. Linux下基于c++实现的web服务器 &emsp;&emsp;&emsp; 项目地址：[https://github.com/1156564544/webServer ](https://github.com/1156564544/webServer)
     * 主要技术栈：线程池+非阻塞socket+epoll多路复用+并发事件处理+状态机解析http请求+信号捕捉处理+管道通信
 
 ## 实习经历
